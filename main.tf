@@ -158,7 +158,6 @@ resource "aws_secretsmanager_secret_version" "terraform_outputs_current" {
   })
 }
 
-
 data "aws_secretsmanager_secret" "secret_greeting" {
   name = "greeting"
 }
