@@ -1,7 +1,3 @@
 # example_terraform
 
-
-Requirements
-terraform-docs
-tfsec
-tflint
+Example project using terraform
